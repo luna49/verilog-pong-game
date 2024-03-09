@@ -1,0 +1,8 @@
+C:/Users/lunas/OneDrive/Documents/ece241/pong/paddle.v {1 {vlog -work work -stats=none C:/Users/lunas/OneDrive/Documents/ece241/pong/paddle.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module playerPaddle
+
+Top level modules:
+	playerPaddle
+
+} {} {}}
